@@ -39,10 +39,10 @@ node_modules/
 *.sqlite
 
 # testing
-/coverage
+coverage/
 
 # production
-/build
+build/
 
 # OS generated files #
 ######################
