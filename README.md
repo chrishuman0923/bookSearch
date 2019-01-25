@@ -1,6 +1,6 @@
 # Book Search
 
-Book Search is a react app that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The purpose of this app is to show the basic functionality and capability of a React.js driven project. It is a single page application that uses react and Google Books API to search for and save books to a database. The deployed project can be found on Heroku [here](https://shielded-reef-59066.herokuapp.com/).
+Book Search is a react app that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The purpose of this app is to show the basic functionality and capability of a React.js driven project. It is a single page application that uses react and Google Books API to search for and save books to a database. The deployed project can be found on Heroku [here](https://radiant-cliffs-59967.herokuapp.com/).
 
 # Functionality
 
