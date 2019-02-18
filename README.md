@@ -1,6 +1,6 @@
 # Book Search
 
-Book Search is a react app that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The purpose of this application is to a user to search for and save book data (title, author, description) to their library database from Google's Book API. It is a single page application that uses react and Google Books API to search for and save books to a database. The deployed project can be found on Heroku [here](https://radiant-cliffs-59967.herokuapp.com/).
+Book Search is a react app that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The purpose of this application is to allow a user to search for and save book data (title, author, description) to their library database from Google's Book API. It is a single page application that uses react and Google Books API to search for and save books to a database. The deployed project can be found on Heroku [here](https://radiant-cliffs-59967.herokuapp.com/).
 
 ## Functionality
 
@@ -35,4 +35,4 @@ All functionality is taking place without the page being refreshed. Using React 
 - Google Books API
 
 ## Future Enhancements
-Future enhancements would allow for the user to easily search through the books they have saved to their library as well as exclude API search results if the book already exists ion the database.
+Future enhancements would allow for the user to easily search through the books they have saved to their library as well as exclude API search results if the book already exists in the database.
